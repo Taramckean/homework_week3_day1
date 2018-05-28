@@ -115,3 +115,7 @@ marvel=# SELECT * FROM movies;
 ## Extension
 
 1. Research how to delete multiple entries from your table in a single command.
+
+delete by id
+
+e.g. DELETE FROM movies WHERE ID IN (10,15,20);
